@@ -19,10 +19,10 @@
   display: none;
 }
 
-#wall #tag-6 {
+#wall .parent #tag-6 {
   display: none;
 }
 
-#wall #tag-7 {
+#wall .parent #tag-7 {
   display: none;
 }
