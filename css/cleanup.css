@@ -4,10 +4,9 @@
 }
 
 #wall #tag-2 {
-  background: none;
   display: none;
 }
 
-#wall .parent #tag-4, #tag-5 {
-  
+div#wall #tag-3.slick {
+  display: none;
 }
